@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.919" height="33.473" viewBox="0 0 32.919 33.473">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #05386b;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Search_Icon" data-name="Search Icon" transform="translate(-1275 -93)">
+    <g id="Ellipse_4" data-name="Ellipse 4" class="cls-1" transform="translate(1275 93)">
+      <circle class="cls-2" cx="11.917" cy="11.917" r="11.917"/>
+      <circle class="cls-3" cx="11.917" cy="11.917" r="10.417"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M0,0,13.3,13.3" transform="translate(1293.063 112.082) rotate(-2)"/>
+  </g>
+</svg>

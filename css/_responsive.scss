@@ -1,0 +1,14 @@
+
+/*__*|   https://www.youtube.com/watch?v=pk-MEjUINjI   |*__*/
+
+@mixin tabletSize {
+    @media screen and (max-width: 820px) {
+        @content;
+    }
+}
+
+@mixin mobileSize {
+    @media screen and (max-width: 390px) {
+        @content;
+    }
+}
